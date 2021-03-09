@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfa6122a-998d-475c-a421-c20f1a90fba6" name="Default Changelist" comment="" />
+    <list default="true" id="dfa6122a-998d-475c-a421-c20f1a90fba6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload_docker.sh" beforeDir="false" afterPath="$PROJECT_DIR$/upload_docker.sh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +19,11 @@
     </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1pU80Jmb7BD9neDhMTehoA5OQXe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,6 +77,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1147" y="449" key="EnvironmentVariablesDialog/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615229765126" />
+    <state x="1128" y="597" key="Github.ShareDialog" timestamp="1615318906217">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1128" y="597" key="Github.ShareDialog/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615318906217" />
+    <state x="1110" y="404" key="Github.UntrackedFilesDialog" timestamp="1615318914131">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1110" y="404" key="Github.UntrackedFilesDialog/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615318914131" />
     <state width="2517" height="492" key="GridCell.Tab.0.bottom" timestamp="1615318137641">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

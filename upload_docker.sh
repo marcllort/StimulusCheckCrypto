@@ -1,2 +1,2 @@
- docker build -t marcllort/twitter-stimulus .
- docker push marcllort/twitter-stimulus
+ docker build -t docker.pkg.github.com/marcllort/stimuluscheckcrypto/twitter-stimulus .
+ docker push docker.pkg.github.com/marcllort/stimuluscheckcrypto/twitter-stimulus
