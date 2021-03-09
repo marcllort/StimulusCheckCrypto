@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfa6122a-998d-475c-a421-c20f1a90fba6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1pU80Jmb7BD9neDhMTehoA5OQXe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Docker.Dockerfile">
+    <configuration name="StimulusCheckCrypto" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="StimulusCheckCrypto" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="StimulusCheckCrypto" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.StimulusCheckCrypto" />
+      <item itemvalue="Docker.Dockerfile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Go Build.StimulusCheckCrypto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615230612380">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615230612380" />
+    <state x="1147" y="449" key="EnvironmentVariablesDialog" timestamp="1615229765126">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1147" y="449" key="EnvironmentVariablesDialog/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615229765126" />
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom" timestamp="1615318137641">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615318137641" />
+    <state width="2517" height="492" key="GridCell.Tab.0.center" timestamp="1615318137641">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615318137641" />
+    <state width="2517" height="492" key="GridCell.Tab.0.left" timestamp="1615318137641">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615318137641" />
+    <state width="2517" height="492" key="GridCell.Tab.0.right" timestamp="1615318137641">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615318137641" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1615318137641">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615318137641" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1615318137641">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615318137641" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1615318137641">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615318137641" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1615318137641">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615318137641" />
+    <state width="1288" height="708" key="XDebugger.FullValuePopup" timestamp="1615230563483">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1288" height="708" key="XDebugger.FullValuePopup/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615230563483" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Business/NewTweet.go</url>
+          <line>60</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Business/NewTweet.go</url>
+          <line>15</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
