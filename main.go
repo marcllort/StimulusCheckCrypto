@@ -12,11 +12,23 @@ func main() {
 	config := Model.LoadConfiguration("creds.json")
 	client := API.GetTwitterClient(config)
 
-	Business.BasicTweet(config, client)
-	executeCronJob(config, client)
+	debug := false
+
+	go executeInfoCronJob(config, client, debug)
+	go executeAdCronJob(client, debug)
+
+	for {
+	}
 }
 
-func executeCronJob(config Model.Config, client *twitter.Client) {
-	gocron.Every(1).Day().Do(Business.BasicTweet, config, client)
+func executeInfoCronJob(config Model.Config, client *twitter.Client, debug bool) {
+	Business.BasicTweet(config, client, true)
+	gocron.Every(1).Day().Do(Business.BasicTweet, config, client, debug)
+	<-gocron.Start()
+}
+
+func executeAdCronJob(client *twitter.Client, debug bool) {
+	Business.AdTweet(client, true)
+	gocron.Every(4).Day().Do(Business.AdTweet, client, debug)
 	<-gocron.Start()
 }
