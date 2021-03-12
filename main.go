@@ -22,13 +22,13 @@ func main() {
 }
 
 func executeInfoCronJob(config Model.Config, client *twitter.Client, debug bool) {
-	Business.BasicTweet(config, client, true)
+	Business.BasicTweet(config, client, debug)
 	gocron.Every(1).Day().Do(Business.BasicTweet, config, client, debug)
 	<-gocron.Start()
 }
 
 func executeAdCronJob(client *twitter.Client, debug bool) {
-	Business.AdTweet(client, true)
+	Business.AdTweet(client, debug)
 	gocron.Every(4).Day().Do(Business.AdTweet, client, debug)
 	<-gocron.Start()
 }

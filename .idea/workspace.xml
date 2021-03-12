@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfa6122a-998d-475c-a421-c20f1a90fba6" name="Default Changelist" comment="">
+    <list default="true" id="dfa6122a-998d-475c-a421-c20f1a90fba6" name="Default Changelist" comment="Update for ads">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Business/NewTweet.go" beforeDir="false" afterPath="$PROJECT_DIR$/Business/NewTweet.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload_docker.sh" beforeDir="false" afterPath="$PROJECT_DIR$/upload_docker.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fix update script" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix update script" />
+    <MESSAGE value="Update for ads" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update for ads" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -86,10 +87,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="734" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615230612380" />
-    <state x="905" y="286" key="CommitChangelistDialog2" timestamp="1615319797956">
+    <state x="1033" y="501" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615576072289">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="905" y="286" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615319797956" />
+    <state x="1033" y="501" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615576072289" />
+    <state x="905" y="286" key="CommitChangelistDialog2" timestamp="1615576055573">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="905" y="286" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615576055573" />
     <state x="1147" y="449" key="EnvironmentVariablesDialog" timestamp="1615229765126">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -134,10 +139,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615319816802" />
-    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1615319799291">
+    <state x="1096" y="402" key="RollbackChangesDialog" timestamp="1615576085630">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="432" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615319799291" />
+    <state x="1096" y="402" key="RollbackChangesDialog/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615576085630" />
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1615573029902">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1080.1920@0.0.2560.1400" timestamp="1615573029902" />
     <state width="1288" height="708" key="XDebugger.FullValuePopup" timestamp="1615230563483">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
